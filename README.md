@@ -5,7 +5,14 @@
 
 ---
 
-## 💫 About Me
+✨ Run this in your terminal to explore my interactive profile:
+
+```
+npx giriraj
+```
+
+---
+💫 About Me
 
 - 🎓 B.Tech CSE @ VIT Bhopal | CGPA: `8.83`, Semester GPA: `9.43`
 - 💼 Former SDE Intern @ Setu (by PineLabs) – Led UI migration across 5+ projects and boosted performance by 20%
