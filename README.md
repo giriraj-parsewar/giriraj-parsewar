@@ -14,7 +14,7 @@ npx giriraj
 ---
 💫 About Me
 
-- 🎓 B.Tech CSE @ VIT Bhopal | CGPA: `8.83`, Semester GPA: `9.43`
+- 🎓 B.Tech CSE @ VIT Bhopal | CGPA: `8.90`, Semester GPA: `9.43`
 - 💼 Former SDE Intern @ Setu (by PineLabs) – Led UI migration across 5+ projects and boosted performance by 20%
 - 🔭 Currently working on:
   - 🚀 **NutriScan Aahar** – AI-powered food label OCR with CO₂ analysis and nutrition chat
